@@ -1,0 +1,23 @@
+
+  type Query {
+    estates: [Estate!]
+  }
+
+  type Geopoint {
+    latitude: Float!
+    longitude: Float!
+  }
+  
+  type Location {
+    street: String
+    postalcode: String!
+    city: String!
+  }
+
+  type Estate {
+    id: ID!
+    surfaceInSqm: Float
+    price: Float
+    location: Location!
+    geopoint: Geopoint
+  }

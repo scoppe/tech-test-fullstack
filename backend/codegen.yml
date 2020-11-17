@@ -1,0 +1,18 @@
+overwrite: true
+schema: "./src/schema.graphql"
+documents: null
+config:
+      useIndexSignature: true
+generates:
+  ./gen/schema.d.ts:
+    plugins:
+      - "typescript"
+  ./gen/types-resolvers.d.ts:
+    plugins:
+      - "typescript-resolvers"
+  ./gen/types-mongodb.d.ts:
+    plugins:
+      - "typescript-mongodb"
+  ./gen/graphql.schema.json:
+    plugins:
+      - "introspection"
