@@ -37,7 +37,6 @@ function Dashboard() {
         </div>
         <div className="absolute z-10 w-4/12 p-4 inset-y-0 right-0">
           <PropertiesList isLoading={loading} properties={data?.estates} />
-          aa
         </div>
       </div>
     </div>
