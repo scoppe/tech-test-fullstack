@@ -51,22 +51,22 @@ We'd like you to pick some improvements or new features, based on the skills you
 **Please pick 2 things on different topics, try to spend around 2 hours of work on this project**
 If you have ideas of improvements that are not on this list, you can improvise too.
 
-**Suggested tasks: **
+**Suggested tasks:**
 
-[ ] Add some authentication (a login screen and some authentication on the backend)
-[ ] Be able to sort the estates by price or surface
-[ ] Add pagination to the list
-[ ] Load the estates as we move on the map
-[ ] Put everything in a docker container image
-[ ] Add redux to the frontend app
-[ ] Synchronize the data with an elasticsearch instance and request it instead of mongodb
-[ ] Write some acceptance tests (for example with Cypress)
-[ ] Make the backend use an Apollo DataSource
-[ ] Add a form to create a new estate
-[ ] Import some point of interests (schools, bus stops...) from the governemental open data
-[ ] Make the app a Progressive Web App that works offline
-[ ] Find an estate on the map by clicking on it on the list - and vice versa
-[ ] Add some Jest unit tests
+- [ ] Add some authentication (a - login screen and some - authentication on the backend)
+- [ ] Be able to sort the estates - by price or surface
+- [ ] Add pagination to the list
+- [ ] Load the estates as we move - on the map
+- [ ] Put everything in a docker - container image
+- [ ] Add redux to the frontend - app
+- [ ] Synchronize the data with - an elasticsearch instance and - request it instead of mongodb
+- [ ] Write some acceptance tests - (for example with Cypress)
+- [ ] Make the backend use an - Apollo DataSource
+- [ ] Add a form to create a new - estate
+- [ ] Import some point of - interests (schools, bus stops...- ) from the governemental open - data
+- [ ] Make the app a Progressive - Web App that works offline
+- [ ] Find an estate on the map - by clicking on it on the list - - and vice versa
+- [ ] Add some Jest unit tests
 
 
 # Any question ?
